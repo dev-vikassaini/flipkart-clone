@@ -418,12 +418,10 @@ nav {
 }
 
 footer {
-    height: 1000px;
-    background-color: var(--color-light-black);
-    color: white;
-    font-family: 'Lato', sans-serif;
+    height: 100%;
 }
 
 .container {
-    min-height: calc(100vh - 56px - 12vh);
+    /* min-height: calc(100vh - 56px - 12vh); */
+    height: 100%;
 }
